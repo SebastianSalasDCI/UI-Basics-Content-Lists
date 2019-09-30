@@ -1,0 +1,14 @@
+ul li{
+    list-style-type: circle; 
+    color: black;
+}
+ul li ul li {
+    list-style-type: square;  
+    color: black;
+}
+ul li ul li ul li{
+    color: rgb(15,200,200);  
+}
+ul li ul li ol li{
+    color: rgb(15,200,15);;  
+}
